@@ -1,0 +1,38 @@
+h1 {
+    background-color:rgb(177, 59, 132);
+    color: chartreuse;
+    font-size: 90px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h2 {
+   color: orangered;
+   font-family:'Merriweather Sans', sans-serif ;
+   font-size: 40px;
+   border: 2px solid violet;
+}
+
+table {
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+      border-collapse: collapse;
+      width: 100%;   
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+ol {
+    text-align: left;
+}
+
+ul {
+    text-align: left;
+}
+
+body {
+    background-image:url("Images/yellow\ background.jpg");
+}
+
