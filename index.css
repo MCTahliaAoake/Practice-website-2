@@ -1,7 +1,12 @@
+.center{
+    margin: auto;
+    width: 60%;
+    border: 3px solid rgb(177, 59, 132);
+    padding: 10px;
+}
+
 h1 {
-    background-color:rgb(177, 59, 132);
-    color: chartreuse;
-    font-size: 90px;
+    font-size: 60px;
     font-family: 'Merriweather Sans', sans-serif;
 }
 
